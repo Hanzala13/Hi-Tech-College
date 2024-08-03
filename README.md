@@ -9,7 +9,7 @@
 **Please note that the website is the sole official website of College, we hold exclusive rights to update and manage its contents. Using our website's materials without proper permission raises significant legal and ethical issues. We have invested considerable time and resources in creating and maintaining our website, and the unauthorized duplication of our content undermines our efforts.**
 
 # Overview
-De La Salle College is committed to providing quality education and fostering the holistic development of its students. Our website aims to effectively communicate information about the college's history, academic curriculum, extracurricular activities, events, and achievements, while also providing a platform for the college community to stay connected and engaged.
+Hi-Tech College is committed to providing quality education and fostering the holistic development of its students. Our website aims to effectively communicate information about the college's history, academic curriculum, extracurricular activities, events, and achievements, while also providing a platform for the college community to stay connected and engaged.
 
 ## The website offers the following key features and functionalities:
 
@@ -21,3 +21,5 @@ De La Salle College is committed to providing quality education and fostering th
 * Events: Information on upcoming events, as well as galleries showcasing past event highlights.
 * News: Timely updates and announcements related to the college and its community.
 * Contact: Contact information and an interactive map for easy navigation to the college premises.
+
+Visit our Website :- https://hitechengg.edu.in/
