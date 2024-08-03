@@ -13,11 +13,11 @@ De La Salle College is committed to providing quality education and fostering th
 
 ## The website offers the following key features and functionalities:
 
-*About: An introduction to the college's history, vision, mission, and core values.
-*Academics: Detailed information about the curriculum, subjects offered, and examination schedules.
-*Faculty & Staff: Profiles and contact information for our dedicated team of educators and administrators.
-*Admissions: The admission process, eligibility criteria, and online application form for prospective students.
-*Extracurricular: Insights into various clubs, societies, sports teams, and other extracurricular activities.
-*Events: Information on upcoming events, as well as galleries showcasing past event highlights.
-*News: Timely updates and announcements related to the college and its community.
-*Contact: Contact information and an interactive map for easy navigation to the college premises.
+* About: An introduction to the college's history, vision, mission, and core values.
+* Academics: Detailed information about the curriculum, subjects offered, and examination schedules.
+* Faculty & Staff: Profiles and contact information for our dedicated team of educators and administrators.
+* Admissions: The admission process, eligibility criteria, and online application form for prospective students.
+* Extracurricular: Insights into various clubs, societies, sports teams, and other extracurricular activities.
+* Events: Information on upcoming events, as well as galleries showcasing past event highlights.
+* News: Timely updates and announcements related to the college and its community.
+* Contact: Contact information and an interactive map for easy navigation to the college premises.
