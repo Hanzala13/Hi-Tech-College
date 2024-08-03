@@ -2,4 +2,4 @@
 
 <img src="https://archive.nptel.ac.in/content/college_assets/college_logo/4356_logo.png" width="800" height="450">
 
-<align="Center"># Hi-Tech Institute OF Technology
+<p><align="Center"># Hi-Tech Institute OF Technology</align></p>
